@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/theterminator/static/css/main.2ca68f01.css",
-    "main.js": "/theterminator/static/js/main.49d97460.js",
+    "main.css": "/theterminator/static/css/main.fcde54d2.css",
+    "main.js": "/theterminator/static/js/main.8eaec36b.js",
+    "static/media/background.jpg": "/theterminator/static/media/background.d77c8ae5fbdbba1e61db.jpg",
+    "static/media/aktery.jpg": "/theterminator/static/media/aktery.fb893c4ff684838e5b8a.jpg",
+    "static/media/people.jpg": "/theterminator/static/media/people.848651260b700bb11f8f.jpg",
+    "static/media/kaleriz.jpg": "/theterminator/static/media/kaleriz.67e83ae6292bc90c1fb8.jpg",
+    "static/media/finish.jpg": "/theterminator/static/media/finish.61b65c1fefc4ed96501e.jpg",
+    "static/media/movie.jpg": "/theterminator/static/media/movie.78d657f0e30c3e5acdc6.jpg",
+    "static/media/sarakonnor.jpg": "/theterminator/static/media/sarakonnor.05001d0ec9650166e447.jpg",
+    "static/media/illbeback.jpg": "/theterminator/static/media/illbeback.32d66426e1c47b73946d.jpg",
     "index.html": "/theterminator/index.html",
-    "main.2ca68f01.css.map": "/theterminator/static/css/main.2ca68f01.css.map",
-    "main.49d97460.js.map": "/theterminator/static/js/main.49d97460.js.map"
+    "main.fcde54d2.css.map": "/theterminator/static/css/main.fcde54d2.css.map",
+    "main.8eaec36b.js.map": "/theterminator/static/js/main.8eaec36b.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ca68f01.css",
-    "static/js/main.49d97460.js"
+    "static/css/main.fcde54d2.css",
+    "static/js/main.8eaec36b.js"
   ]
 }
