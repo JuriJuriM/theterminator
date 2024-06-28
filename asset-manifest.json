@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/theterminator/static/css/main.fcde54d2.css",
+    "main.css": "/theterminator/static/css/main.c589d0d8.css",
     "main.js": "/theterminator/static/js/main.8eaec36b.js",
     "static/media/background.jpg": "/theterminator/static/media/background.d77c8ae5fbdbba1e61db.jpg",
     "static/media/aktery.jpg": "/theterminator/static/media/aktery.fb893c4ff684838e5b8a.jpg",
@@ -11,11 +11,11 @@
     "static/media/sarakonnor.jpg": "/theterminator/static/media/sarakonnor.05001d0ec9650166e447.jpg",
     "static/media/illbeback.jpg": "/theterminator/static/media/illbeback.32d66426e1c47b73946d.jpg",
     "index.html": "/theterminator/index.html",
-    "main.fcde54d2.css.map": "/theterminator/static/css/main.fcde54d2.css.map",
+    "main.c589d0d8.css.map": "/theterminator/static/css/main.c589d0d8.css.map",
     "main.8eaec36b.js.map": "/theterminator/static/js/main.8eaec36b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcde54d2.css",
+    "static/css/main.c589d0d8.css",
     "static/js/main.8eaec36b.js"
   ]
 }
