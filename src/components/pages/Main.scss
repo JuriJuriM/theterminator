@@ -1,7 +1,8 @@
 .main {
+    min-width: 100%;
     padding-top: 70px;
     //background: url("../../assets/img/background.jpg") 50% / cover no-repeat fixed;
-    background: url("../../assets/img/background.jpg") 0 0 / cover no-repeat fixed;
+    //background: url("../../assets/img/background.jpg") 0 0 / cover no-repeat fixed;
     &__title {
         text-align: center;
         font-size: 36px;
@@ -47,6 +48,17 @@
         margin-bottom: 15px;
         color: red;
     }
+}
+.main:before {
+    content: "";
+    background: url("../../assets/img/background.jpg");
+    position: fixed;
+    background-size: cover;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
 }
 
 @media (max-width: 850px) {
