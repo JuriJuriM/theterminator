@@ -1,21 +1,43 @@
 {
   "files": {
-    "main.css": "/theterminator/static/css/main.8648713b.css",
-    "main.js": "/theterminator/static/js/main.8eaec36b.js",
+    "main.css": "/theterminator/static/css/main.c33af8e2.css",
+    "main.js": "/theterminator/static/js/main.8b0193c3.js",
     "static/media/background.jpg": "/theterminator/static/media/background.d77c8ae5fbdbba1e61db.jpg",
+    "static/media/visit.png": "/theterminator/static/media/visit.c3d3691ece6fa63598d3.png",
+    "static/media/theterm.png": "/theterminator/static/media/theterm.48998f1aba7de370811c.png",
+    "static/media/finishthird.jpg": "/theterminator/static/media/finishthird.722f3123706a43ddf976.jpg",
+    "static/media/explosion.png": "/theterminator/static/media/explosion.962a34648e9bdf2c30ce.png",
+    "static/media/darksoul.jpg": "/theterminator/static/media/darksoul.e2e0c3a039551db33e68.jpg",
+    "static/media/finishtwo.png": "/theterminator/static/media/finishtwo.0bedb9eb8ea78cd7c168.png",
+    "static/media/termintwo.jpg": "/theterminator/static/media/termintwo.71c719802e53e3887e10.jpg",
+    "static/media/Terminfour.jpeg": "/theterminator/static/media/Terminfour.4b8b92e81a7f5d9ec695.jpeg",
+    "static/media/bgthree.jpg": "/theterminator/static/media/bgthree.f1b3b074ae9a9c6bcc28.jpg",
     "static/media/aktery.jpg": "/theterminator/static/media/aktery.fb893c4ff684838e5b8a.jpg",
     "static/media/people.jpg": "/theterminator/static/media/people.848651260b700bb11f8f.jpg",
+    "static/media/glass.jpg": "/theterminator/static/media/glass.e923864991042565f427.jpg",
+    "static/media/bgtwo.jpg": "/theterminator/static/media/bgtwo.1d6782ca70fc98613d1b.jpg",
+    "static/media/terminsara.jpeg": "/theterminator/static/media/terminsara.b5f3f30b720b2ac6eff8.jpeg",
     "static/media/kaleriz.jpg": "/theterminator/static/media/kaleriz.67e83ae6292bc90c1fb8.jpg",
+    "static/media/termgenesis.jpg": "/theterminator/static/media/termgenesis.62b7bc8c166333f4ead4.jpg",
     "static/media/finish.jpg": "/theterminator/static/media/finish.61b65c1fefc4ed96501e.jpg",
     "static/media/movie.jpg": "/theterminator/static/media/movie.78d657f0e30c3e5acdc6.jpg",
+    "static/media/terminthree.jpg": "/theterminator/static/media/terminthree.3c26c5972a209dac015f.jpg",
+    "static/media/skelet.jpg": "/theterminator/static/media/skelet.813c3aa49ee88dc89a55.jpg",
+    "static/media/sarawith.jpeg": "/theterminator/static/media/sarawith.baaf429e148a12aec0c1.jpeg",
+    "static/media/skeletface.jpg": "/theterminator/static/media/skeletface.c883f86f48c5c1fb248c.jpg",
+    "static/media/incar.jpg": "/theterminator/static/media/incar.0f5456e8440178a95faf.jpg",
     "static/media/sarakonnor.jpg": "/theterminator/static/media/sarakonnor.05001d0ec9650166e447.jpg",
     "static/media/illbeback.jpg": "/theterminator/static/media/illbeback.32d66426e1c47b73946d.jpg",
+    "static/media/press.jpeg": "/theterminator/static/media/press.20649597dd7c9765572e.jpeg",
+    "static/media/thirdpart.jpg": "/theterminator/static/media/thirdpart.aab448aa1f371201d879.jpg",
+    "static/media/fightscene.jpeg": "/theterminator/static/media/fightscene.8bb0a0eaa5837f76c557.jpeg",
+    "static/media/sarakonnor.jpeg": "/theterminator/static/media/sarakonnor.25a3ab68f380171e8a7a.jpeg",
     "index.html": "/theterminator/index.html",
-    "main.8648713b.css.map": "/theterminator/static/css/main.8648713b.css.map",
-    "main.8eaec36b.js.map": "/theterminator/static/js/main.8eaec36b.js.map"
+    "main.c33af8e2.css.map": "/theterminator/static/css/main.c33af8e2.css.map",
+    "main.8b0193c3.js.map": "/theterminator/static/js/main.8b0193c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.8648713b.css",
-    "static/js/main.8eaec36b.js"
+    "static/css/main.c33af8e2.css",
+    "static/js/main.8b0193c3.js"
   ]
 }
